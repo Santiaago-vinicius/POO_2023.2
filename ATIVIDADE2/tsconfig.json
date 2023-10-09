@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "outDir": "./build",
-    "allowUnreachableCode": true,
-    "noImplicitAny": true,
-    "target": "ES3",
-    "strictNullChecks": false
-  }
-}
